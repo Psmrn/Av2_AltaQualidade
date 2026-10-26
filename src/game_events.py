@@ -2,8 +2,8 @@ import sys
 
 import pygame
 
-from bullet_manager import BulletManager
-from ship import Ship
+from src.bullet_manager import BulletManager
+from src.ship import Ship
 
 
 class GameEventHandler:
