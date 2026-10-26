@@ -1,3 +1,4 @@
 pygame
 ruff
 mypy
+pytest
