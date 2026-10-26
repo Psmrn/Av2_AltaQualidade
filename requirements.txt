@@ -2,3 +2,6 @@ pygame
 ruff
 mypy
 pytest
+pytest-mock
+pytest-html
+coverage
