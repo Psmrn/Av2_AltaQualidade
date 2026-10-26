@@ -2,10 +2,10 @@ from __future__ import annotations
 
 import pygame
 
-from src.alien import Alien
-from src.bullet import Bullet
-from src.settings import Settings
-from src.ship import Ship
+from alien import Alien
+from bullet import Bullet
+from settings import Settings
+from ship import Ship
 
 
 class BulletManager:

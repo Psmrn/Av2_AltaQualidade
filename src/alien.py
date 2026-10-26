@@ -1,7 +1,7 @@
 import pygame
 from pygame.sprite import Sprite
 
-from src.settings import Settings
+from settings import Settings
 
 
 class Alien(Sprite):

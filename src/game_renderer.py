@@ -2,9 +2,9 @@ from __future__ import annotations
 
 import pygame
 
-from src.alien import Alien
-from src.bullet import Bullet
-from src.ship import Ship
+from alien import Alien
+from bullet import Bullet
+from ship import Ship
 
 
 class GameRenderer:

@@ -1,12 +1,12 @@
 import pygame
 
-from src.bullet_manager import BulletManager
-from src.fast_alien import FastAlien
-from src.fleet_manager import FleetManager
-from src.game_events import GameEventHandler
-from src.game_renderer import GameRenderer
-from src.settings import Settings
-from src.ship import Ship
+from bullet_manager import BulletManager
+from fast_alien import FastAlien
+from fleet_manager import FleetManager
+from game_events import GameEventHandler
+from game_renderer import GameRenderer
+from settings import Settings
+from ship import Ship
 
 
 class AlienInvasion:

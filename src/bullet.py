@@ -1,8 +1,8 @@
 import pygame
 from pygame.sprite import Sprite
 
-from src.settings import Settings
-from src.ship import Ship
+from settings import Settings
+from ship import Ship
 
 
 # Conceito de HERANÇA: Bullet herda atributos e métodos de Sprite, classe do Pygame para objetos visuais.

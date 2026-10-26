@@ -1,4 +1,4 @@
-from src.alien import Alien
+from alien import Alien
 
 
 class FastAlien(Alien):

@@ -210,4 +210,4 @@ __marimo__/
 
 # Relatórios de testes (Aula 08) - não versionar
 relatorio.html
-assets/.\.venv\Scripts\python.exe -m pip install -r requirements.txt
+assets/

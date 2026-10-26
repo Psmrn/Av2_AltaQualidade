@@ -4,9 +4,9 @@ import sys
 
 import pygame
 
-from src.alien import Alien
-from src.settings import Settings
-from src.ship import Ship
+from alien import Alien
+from settings import Settings
+from ship import Ship
 
 
 class FleetManager:
