@@ -1,0 +1,12 @@
+[tool.ruff]
+line-length = 120
+src = [".", "src"]
+
+[tool.ruff.lint]
+select = ["E", "W", "F", "I", "B", "SIM"]
+
+[tool.mypy]
+mypy_path = "src"
+disallow_untyped_defs = true
+check_untyped_defs = true
+warn_unused_ignores = true
