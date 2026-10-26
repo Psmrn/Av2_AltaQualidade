@@ -3,8 +3,8 @@ class Settings:
 
     def __init__(self) -> None:
         # Configurações da tela
-        self.screen_width: int = 1200
-        self.screen_height: int = 800
+        self.screen_width: int = 1366
+        self.screen_height: int = 768
         self.bg_color: tuple[int, int, int] = (230, 230, 230)  # Cor de fundo (cinza claro)
         self.ship_speed: float = 1.5  # Velocidade da nave
 
